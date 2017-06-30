@@ -1,0 +1,2 @@
+# MajoraBot
+Discord Bot
